@@ -1,0 +1,10 @@
+# OS/editor
+.vscode/
+desktop.ini
+
+# Java/Maven
+**/target/
+*.class
+
+# Logs
+*.log
